@@ -68,4 +68,5 @@ A  ***Learner***
     </tr>
   </table>
 </center>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Areefks&label=Profile%20views&color=0e75b6&style=flat" alt="Areefks" /> </p>
   
